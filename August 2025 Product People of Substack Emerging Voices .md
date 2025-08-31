@@ -1,4 +1,4 @@
-# 🧠 Product + AI Substack Directory
+# 🧠 August 2025 - Emerging Product Voices - Product People of Substack
 
 | Name | Newsletter | Link |
 |------|------------|------|
