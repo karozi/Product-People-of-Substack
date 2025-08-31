@@ -9,8 +9,6 @@
 | Anfernee | Solopreneur Code | [Link](https://solopreneurcode.substack.com/) |
 | Aniket Chhetri | Grow With AI 📈 | [Link](https://growwithaiguide.substack.com/) |
 | Ashwin Francis | Cash & Cache | [Link](https://cashandcache.substack.com/) |
-| Astrid Sadaya | The Art of Love and Living | [Link](https://open.substack.com/pub/meditationcigarettesandallthatbs?utm_source=share&utm_medium=android&r=33c2hl) |
-| Billie Moon | Unapologetic Tales of Billie Moon | [Link](https://magicponybooks.substack.com) |
 | Blessing Okpala | Designing with Blessing | [Link](https://blessingokpala.substack.com/) |
 | Christine Olukere | The Reluctant Graduate | [Link](https://thereluctantgraduate.substack.com/) |
 | Daniel | Building 3B | [Link](https://dmartuk.substack.com/) |
@@ -73,4 +71,3 @@
 | Michael Pope | Michael Pope | [Link](https://michaelpopedeveloper.substack.com/?utm_campaign=profile_chips) |
 | Robert Drehmann | Robert Drehmann | [Link](https://substack.com/@robertdrehmann) |
 | Ollie Forsyth | New Economies | [Link](https://www.neweconomies.co/?utm_campaign=profile_chips) |
-| Unknown | AI Design Playbook | *(Link missing)* |
