@@ -1,4 +1,4 @@
-# 🧠 August 2025 - Emerging Product Voices - Product People of Substack (Last Updated 19 Sep 2025)
+# 🧠 Emerging Product Voices - Product People of Substack (Last Updated 19 Sep 2025)
 
 | Name | Newsletter | Link |
 |------|------------|------|
@@ -47,7 +47,8 @@
 | Priya Mathew Badger | Almost Magic | [Link](https://almostmagic.substack.com/) |
 | Raghav Mehra | Cash & Cache | [Link](https://cashandcache.substack.com/) |
 | Roi Ezra | AI for Humanity | [Link](https://aihumanity.substack.com/) |
-| Roman Kuba | Nerdwerk | [Link](https://romankuba.substack.com/) |
+| Roman Kuba | Nerdwerk | [Link](https://romankuba.substack.com/?utm_source=recommendations_page&utm_campaign=4097137) |
+| Sam Illingworth | The Slow AI | [Link](https://theslowai.substack.com/)) |
 | Sharyph | The Digital Creator | [Link](https://newsletter.thedigitalcreator.co/) |
 | Soumya Sreeram | Human Circuit | [Link](https://soumyasreeram.substack.com/?utm_campaign=profile_chips) |
 | Tope Olofin | The Marketing Black | [Link](https://themarketingblack.substack.com) |
