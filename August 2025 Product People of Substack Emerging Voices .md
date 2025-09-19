@@ -29,6 +29,7 @@
 | Karen Spinner | Wondering About AI | [Link](https://wonderingaboutai.substack.com) |
 | Karo | Product With Attitude | [Link](https://karozieminski.substack.com/) |
 | Katrina Watson | Katrina's Newsletter (Product & AI) | [Link](https://katrinawatson.substack.com/) |
+| Kent McDonald | Inside Product | [Link](https://insideproduct.substack.com/) |
 | Kenny | Kenny Your Freelance Friend | [Link](https://kennytjay.substack.com/about) |
 | KJ Green | Solo Star by KJ Green | [Link](https://substack.com/@solostarbykjg?r=1qt91e&utm_medium=ios) |
 | Lala Leung | The UX Anthropologist | [Link](https://lalaleung.substack.com/?utm_campaign=profile_chips) |
