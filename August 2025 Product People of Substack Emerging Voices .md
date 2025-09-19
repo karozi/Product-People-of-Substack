@@ -51,7 +51,7 @@
 | Sharyph | The Digital Creator | [Link](https://newsletter.thedigitalcreator.co/) |
 | Soumya Sreeram | Human Circuit | [Link](https://soumyasreeram.substack.com/?utm_campaign=profile_chips) |
 | Tope Olofin | The Marketing Black | [Link](https://themarketingblack.substack.com) |
-| Tim Daines | The Product Agent | [Link]([https://themarketingblack.substack.com](https://productagent.substack.com/?utm_source=recommendations_page&utm_campaign=4097137) |
+| Tim Daines | The Product Agent | [Link](https://productagent.substack.com/?utm_source=recommendations_page&utm_campaign=4097137) |
 | Ursula Maria Mayer | AI - the Deep, the Curious and the Fun | [Link](https://ursula8sciform.substack.com/) |
 | Vadym Grin | Eidos Design | [Link](https://eidosdesign.substack.com/) |
 | Wyndo | AI Maker | [Link](https://aimaker.substack.com/) |
