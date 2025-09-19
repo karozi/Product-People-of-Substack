@@ -8,6 +8,7 @@
 | Andres Vourakis | To Be a Data Scientist | [Link](https://tobeadatascientist.com/) |
 | Anfernee | Solopreneur Code | [Link](https://solopreneurcode.substack.com/) |
 | Aniket Chhetri | Grow With AI 📈 | [Link](https://growwithaiguide.substack.com/) |
+| Benedikt Kantus | Leading Product | [Link](https://www.leadinginproduct.com) |
 | Ashwin Francis | Cash & Cache | [Link](https://cashandcache.substack.com/) |
 | Blessing Okpala | Designing with Blessing | [Link](https://blessingokpala.substack.com/) |
 | Christine Olukere | The Reluctant Graduate | [Link](https://thereluctantgraduate.substack.com/) |
