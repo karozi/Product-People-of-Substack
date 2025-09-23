@@ -1,4 +1,7 @@
-# 📬 Product People of Substack
+# 📬 Product People of Substack (Updated 23-09-2025)
+
+  [![Product with Attitude](https://img.shields.io/badge/Product%20with-Attitude-FF6851?style=for-the-badge)](https://karozieminski.substack.com/)
+  [![Made with Love](https://img.shields.io/badge/made%20with-🧡-orange?style=for-the-badge)](https://stackshelf.app)
 
 > A curated list of product builders, AI tinkerers, and UX thinkers sharing their process on Substack.
 
